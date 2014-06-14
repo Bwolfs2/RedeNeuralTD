@@ -1,0 +1,11 @@
+C:\Users\bwolf\Documents\RedeNeruralDefence\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\bwolf\Documents\RedeNeruralDefence\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\bwolf\Documents\RedeNeruralDefence\Temp\bin\Debug\UnityEditor.dll
+C:\Users\bwolf\Documents\RedeNeruralDefence\Temp\bin\Debug\UnityEngine.dll
+C:\Users\bwolf\Documents\RedeNeruralDefence\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\bwolf\Documents\RedeNeruralDefence\Temp\bin\Debug\nunit.framework.dll
+C:\Users\bwolf\Documents\RedeNeruralDefence\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\bwolf\Documents\RedeNeruralDefence\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\bwolf\Documents\RedeNeruralDefence\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\bwolf\Documents\RedeNeruralDefence\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\bwolf\Documents\RedeNeruralDefence\obj\Debug\Assembly-CSharp-firstpass.pdb

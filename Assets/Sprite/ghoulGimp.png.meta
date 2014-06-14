@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: 7eccc2808415c1b4cbe0468df0d1527f
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 1
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ghoulGimp_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 215
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 214
+        width: 41
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 213
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 213
+        width: 47
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 218
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 216
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 217
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 214
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_8
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 212
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 211
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_10
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 210
+        width: 39
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_11
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 201
+        width: 42
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_12
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 206
+        width: 42
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_13
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 205
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_14
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 205
+        width: 39
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_15
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 205
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_16
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 213
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 118
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 117
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 116
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_20
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 115
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 113
+        width: 37
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 121
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_23
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 115
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 119
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_25
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 120
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_26
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 118
+        width: 43
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_27
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 130
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_28
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 133
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_29
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 118
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_30
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 114
+        width: 45
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_31
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 116
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_32
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 116
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_33
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 115
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 26
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_35
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 27
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_36
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 37
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_37
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 42
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_38
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 64
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_39
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 23
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_40
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 30
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_41
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 53
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_42
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 81
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_43
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 92
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_44
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 66
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_45
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 93
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_46
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 59
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_47
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 100
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_48
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 77
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ghoulGimp_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 58
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
